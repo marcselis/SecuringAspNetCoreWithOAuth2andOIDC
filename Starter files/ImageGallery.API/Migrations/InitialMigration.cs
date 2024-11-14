@@ -29,7 +29,7 @@ namespace ImageGallery.API.Migrations
 
             migrationBuilder.InsertData(
                 table: "Images",
-                columns: new[] { "Id", "FileName", "OwnerId", "Title" },
+                columns: ["Id", "FileName", "OwnerId", "Title"],
                 values: new object[,]
                 {
                     { new Guid("136f358d-98fb-4961-855c-59d5a6d1fa19"), "cd139111-c82e-4bc8-9f7d-43a1059bfe73.jpg", "b7539694-97e7-4dfe-84da-b4256e1ff5c7", "An image by Emma" },

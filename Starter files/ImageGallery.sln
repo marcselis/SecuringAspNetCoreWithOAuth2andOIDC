@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery.API", "ImageGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery.Model", "ImageGallery.Model\ImageGallery.Model.csproj", "{6801DFE6-631B-427F-8DA4-DEB196D93AB3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marvin.IDP", "Marvin.IDP\Marvin.IDP.csproj", "{8421DEA9-CE1F-4AFC-86C8-4FA558E1FFD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGallery.Authorization", "ImageGallery.Authorization\ImageGallery.Authorization.csproj", "{AC1A5E55-BF5B-4B4A-AC88-33319E1E0E9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{6801DFE6-631B-427F-8DA4-DEB196D93AB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6801DFE6-631B-427F-8DA4-DEB196D93AB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6801DFE6-631B-427F-8DA4-DEB196D93AB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8421DEA9-CE1F-4AFC-86C8-4FA558E1FFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8421DEA9-CE1F-4AFC-86C8-4FA558E1FFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8421DEA9-CE1F-4AFC-86C8-4FA558E1FFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8421DEA9-CE1F-4AFC-86C8-4FA558E1FFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1A5E55-BF5B-4B4A-AC88-33319E1E0E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1A5E55-BF5B-4B4A-AC88-33319E1E0E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1A5E55-BF5B-4B4A-AC88-33319E1E0E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1A5E55-BF5B-4B4A-AC88-33319E1E0E9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -400,3 +400,6 @@ FodyWeavers.xsd
 # SQLite temporary files 
 *.db-shm
 *.db-wal
+*.db
+/Starter files/Marvin.IDP/keys/is-signing-key-D733849ED184AEF0F15AA0E733F4FDD3.json
+/Starter files/ImageGallery.API/wwwroot/Images
